@@ -4,9 +4,10 @@ Act 4- Trabajamos con listas, duplas, conjuntos y  diccionarios
 - Codigo
 
 ![image](https://github.com/user-attachments/assets/620b8ebf-c404-4829-ab59-58e0f2cd9baa)
+
 - Resultado
   
-![image](https://github.com/user-attachments/assets/73d94ea7-d20f-432e-92b1-37d2656667ab)
+![image](https://github.com/user-attachments/assets/acf88691-ac28-48cd-aae5-5e41635706c9)
 
 ## Las Tuplas
 - Codigo
@@ -15,7 +16,7 @@ Act 4- Trabajamos con listas, duplas, conjuntos y  diccionarios
 
 - Resultado
 
-![image](https://github.com/user-attachments/assets/ba819118-1912-449e-bb8c-a2819e5bd606)
+![image](https://github.com/user-attachments/assets/7750dd47-e07b-4352-b8cc-21dc4c40ae5f)
 
 ## Conjuntos
 - Codigo
@@ -24,7 +25,7 @@ Act 4- Trabajamos con listas, duplas, conjuntos y  diccionarios
 
 - Resultado
   
-![image](https://github.com/user-attachments/assets/2b2aad95-3003-4da4-be9b-973b205b0a57)
+![image](https://github.com/user-attachments/assets/b5f0773e-9510-40d1-b29b-e25e953bf60c)
 
 ## Diccionario
 - Codigo
@@ -33,7 +34,8 @@ Act 4- Trabajamos con listas, duplas, conjuntos y  diccionarios
 
 - Resultado
 
-![image](https://github.com/user-attachments/assets/21eaa548-7ec2-48e0-861e-f074f0e86eef)
+![image](https://github.com/user-attachments/assets/0401c9da-364e-4ad6-90b4-0dd8ac4c518b)
+
 
 
 
