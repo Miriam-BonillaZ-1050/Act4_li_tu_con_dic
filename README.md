@@ -17,3 +17,25 @@ Act 4- Trabajamos con listas, duplas, conjuntos y  diccionarios
 
 ![image](https://github.com/user-attachments/assets/ba819118-1912-449e-bb8c-a2819e5bd606)
 
+## Conjuntos
+- Codigo
+
+![image](https://github.com/user-attachments/assets/73fc2bd3-7886-43a2-8dd7-cc0a94d97970)
+
+- Resultado
+  
+![image](https://github.com/user-attachments/assets/2b2aad95-3003-4da4-be9b-973b205b0a57)
+
+## Diccionario
+- Codigo
+
+![image](https://github.com/user-attachments/assets/0514e14e-65fc-4be2-a7d2-a1001241b86e)
+
+- Resultado
+
+![image](https://github.com/user-attachments/assets/21eaa548-7ec2-48e0-861e-f074f0e86eef)
+
+
+
+
+  
